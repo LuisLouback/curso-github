@@ -1,0 +1,13 @@
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\bin\Debug\netcoreapp3.1\Aulas_Udemy.exe
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\bin\Debug\netcoreapp3.1\Aulas_Udemy.deps.json
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\bin\Debug\netcoreapp3.1\Aulas_Udemy.runtimeconfig.json
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\bin\Debug\netcoreapp3.1\Aulas_Udemy.runtimeconfig.dev.json
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\bin\Debug\netcoreapp3.1\Aulas_Udemy.dll
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\bin\Debug\netcoreapp3.1\Aulas_Udemy.pdb
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\obj\Debug\netcoreapp3.1\Aulas_Udemy.csprojAssemblyReference.cache
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\obj\Debug\netcoreapp3.1\Aulas_Udemy.AssemblyInfoInputs.cache
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\obj\Debug\netcoreapp3.1\Aulas_Udemy.AssemblyInfo.cs
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\obj\Debug\netcoreapp3.1\Aulas_Udemy.csproj.CoreCompileInputs.cache
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\obj\Debug\netcoreapp3.1\Aulas_Udemy.dll
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\obj\Debug\netcoreapp3.1\Aulas_Udemy.pdb
+C:\Users\luisl\Documents\DOCUMENTOS - PC\Projetos Visual Studio\Aulas_Udemy\Aulas_Udemy\obj\Debug\netcoreapp3.1\Aulas_Udemy.genruntimeconfig.cache
