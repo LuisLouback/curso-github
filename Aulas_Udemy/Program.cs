@@ -18,6 +18,8 @@ namespace Aulas_Udemy
 				Console.WriteLine("O maior número é " + A);
 			else if (B > A)
 				Console.WriteLine("O maior número é " + B);
+			else if (B == A)
+				Console.WriteLine("Ambos números são iguais !");
 		}
 	}
 }
