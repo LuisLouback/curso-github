@@ -31,10 +31,6 @@ namespace Projeto_Array
 
             Console.WriteLine("Digite os numero que vc quer no array separados por ( , )");
             
-            if ()
-            {
-                
-            }
             
             array = Console.ReadLine().Split(",");
 
