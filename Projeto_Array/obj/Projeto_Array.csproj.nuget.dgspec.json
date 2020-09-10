@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/Projeto_Array.csproj": {}
+  },
+  "projects": {
+    "/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/Projeto_Array.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/Projeto_Array.csproj",
+        "projectName": "Projeto_Array",
+        "projectPath": "/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/Projeto_Array.csproj",
+        "packagesPath": "/home/luis_augusto/.nuget/packages/",
+        "outputPath": "/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/luis_augusto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/3.1.106/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

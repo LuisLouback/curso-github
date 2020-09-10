@@ -1,0 +1,11 @@
+/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/bin/Debug/netcoreapp3.1/Projeto_Array
+/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/bin/Debug/netcoreapp3.1/Projeto_Array.deps.json
+/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/bin/Debug/netcoreapp3.1/Projeto_Array.runtimeconfig.json
+/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/bin/Debug/netcoreapp3.1/Projeto_Array.runtimeconfig.dev.json
+/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/bin/Debug/netcoreapp3.1/Projeto_Array.dll
+/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/bin/Debug/netcoreapp3.1/Projeto_Array.pdb
+/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/obj/Debug/netcoreapp3.1/Projeto_Array.csprojAssemblyReference.cache
+/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/obj/Debug/netcoreapp3.1/Projeto_Array.AssemblyInfoInputs.cache
+/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/obj/Debug/netcoreapp3.1/Projeto_Array.AssemblyInfo.cs
+/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/obj/Debug/netcoreapp3.1/Projeto_Array.dll
+/home/luis_augusto/Documentos/DOCUMENTOS - PC/Projetos Visual Studio/Projeto_Array/obj/Debug/netcoreapp3.1/Projeto_Array.pdb
